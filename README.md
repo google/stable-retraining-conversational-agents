@@ -15,12 +15,19 @@ The data is derived from the following datasets:
 ## Data
 
 The generated synthetic data is present in the following directories (corresponding respectively to the above links):
+
     top_data/
+    
     topv2_data/
+    
     mtop_data/
+    
     snips_data/
+    
 Each dataset directory has two subdirectories:
+
     swap_top/
+    
     distant_top/
 
 These subdirectories contain the random and systematic noisy datasets from Section 6.
